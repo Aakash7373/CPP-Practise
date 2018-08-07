@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429587705 source:e:\c++\binaryheap\main.cpp
+	<iostream>
+	<cassert>
+
