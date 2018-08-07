@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1424655709 source:f:\c++\feetinches\feetinches.cpp
+	<iostream>
+	"feetinches.h"
+
+1424655619 f:\c++\feetinches\feetinches.h
+
+1424655044 source:f:\c++\feetinches\main.cpp
+	<iostream>
+	"feetinches.h"
+
+1430936114 source:e:\c++\feetinches\main.cpp
+	<iostream>
+	"feetinches.h"
+
+1430935959 e:\c++\feetinches\feetinches.h
+
+1430936133 source:e:\c++\feetinches\feetinches.cpp
+	<iostream>
+	"feetinches.h"
+
