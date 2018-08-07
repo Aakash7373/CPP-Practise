@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1425194769 source:e:\c++\gradedactivity\gradedactivity.cpp
+	<iostream>
+	"gradedactivity.h"
+
+1425246877 e:\c++\gradedactivity\gradedactivity.h
+
+1425260308 source:e:\c++\gradedactivity\main.cpp
+	<iostream>
+	"gradedactivity.h"
+	"FinalExam.h"
+	"quiz.h"
+
+1425194756 e:\c++\gradedactivity\finalexam.h
+	"gradedactivity.h"
+
+1425194400 source:e:\c++\gradedactivity\finalexam.cpp
+	"FinalExam.h"
+
+1425246858 e:\c++\gradedactivity\quiz.h
+	"gradedactivity.h"
+
+1425246856 source:e:\c++\gradedactivity\quiz.cpp
+	"quiz.h"
+
