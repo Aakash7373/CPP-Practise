@@ -6,7 +6,7 @@
 #include <string>
 #include <stack>            // STL stack
 using namespace std;
-
+//
 bool isBalanced(string s);  // Prototype
 
 int main()
