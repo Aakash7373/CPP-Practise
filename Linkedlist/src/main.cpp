@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-
+//
 NumberList list,list1;
 list.appendnode(5);
 list.appendnode(6);
